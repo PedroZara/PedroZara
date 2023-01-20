@@ -2,8 +2,8 @@
 
 - 👋 Meu nome é Pedro Zaramella!
 - 📒 Sou doutorando em Física.
-- 🌱 Atualmente aprendendo tudo sobre tratamento e análise de dados 😅.
-- 🔭 Em busca de experiência como cientista de dados, evoluindo a cada dia.
+- 🌱 Atualmente estudando ML.
+- 🔭 Cientista de dados pela Housi.
 
 ------
 # 📨 Como entrar em contato!
